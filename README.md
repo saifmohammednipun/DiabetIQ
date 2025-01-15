@@ -41,3 +41,8 @@ I have also attached a sample project proposal for your convenience. Duration fo
 1. https://docs.google.com/document/d/112zYv7miDqhwaTcNu7YGBvIIFTLhJ0Q7yvvu7IXTXr8/edit
 
 2. https://docs.google.com/document/d/1SvNpwZq4VcWACPBE_kUR3lFlQ7DyMJqZxBLDXCPFidE/edit#heading=h.npl1n9n7h57e
+
+## Group Collaboration Techs
+1. GitHub </br>
+2. Trello </br>
+3. Slack </br>
