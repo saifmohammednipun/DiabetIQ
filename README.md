@@ -47,3 +47,4 @@ I have also attached a sample project proposal for your convenience. Duration fo
 2. Trello </br>
 3. Slack </br>
 4. Discord </br>
+5. GoogleDoc </br>
