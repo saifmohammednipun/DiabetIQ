@@ -46,3 +46,4 @@ I have also attached a sample project proposal for your convenience. Duration fo
 1. GitHub </br>
 2. Trello </br>
 3. Slack </br>
+4. Discord </br>
