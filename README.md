@@ -36,6 +36,32 @@ I have also attached a sample project proposal for your convenience. Duration fo
 
 3. https://www.alivenow.in/ </br>
 
+## Public dataset sources and possible project topics
+
+1. https://archive.ics.uci.edu/Links to an external site. </br>
+
+2. https://www.kaggle.com/Links to an external site. </br>
+
+3. https://zindi.africa/Links to an external site. </br>
+
+4. https://paperswithcode.com/Links to an external site. </br>
+
+5. https://scholar.google.com/Links to an external site.  .  ( look for papers which are not more than 3 years old )</br>
+
+## Potential list of topics:
+
+https://ric.gov.bd/call-for-proposals/Links to an external site. 
+
+
+## Google Scholar Profile:
+
+1. Dr. Sifat Momen Sir ( https://scholar.google.com/citations?user=sGVZEaAAAAAJ&hl=en )Links to an external site. </br>
+
+( Look into his recent publications (not before 2023) and if you find any suitable topic then you need to look for dataset on that topic) </br>
+
+2. Dr. Leila Ismail ( https://scholar.google.ae/citations?user=TY-2fcUAAAAJ&hl=enLinks to an external site.) </br>
+
+
 ## Sample Doc file
 
 1. https://docs.google.com/document/d/112zYv7miDqhwaTcNu7YGBvIIFTLhJ0Q7yvvu7IXTXr8/edit
