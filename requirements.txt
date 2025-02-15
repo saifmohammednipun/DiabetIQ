@@ -5,12 +5,11 @@ PyMuPDF
 tqdm
 spaCy
 nltk
-en_core_web_sm
 pandas
 sentence_transformers
-tiktoken 
-langchainhub 
-chromadb 
+tiktoken
+langchainhub
+chromadb
 langchain
 langsmith
 bs4
@@ -23,3 +22,9 @@ pypdf
 PyMuPDF
 langchain_huggingface
 ollama
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+seaborn
