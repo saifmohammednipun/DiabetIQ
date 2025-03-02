@@ -28,3 +28,6 @@ pandas
 scipy
 scikit-learn
 seaborn
+imbalanced-learn
+xgboost
+crewai
