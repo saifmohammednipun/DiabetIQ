@@ -30,8 +30,5 @@ scikit-learn
 seaborn
 imbalanced-learn
 xgboost
-crewai
-tensorflow
 unstructured
 PyPDF2
-tf-keras
