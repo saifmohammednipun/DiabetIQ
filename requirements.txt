@@ -3,9 +3,6 @@ ipykernel
 jupyter
 PyMuPDF
 tqdm
-spaCy
-nltk
-pandas
 sentence_transformers
 tiktoken
 langchainhub
@@ -13,7 +10,6 @@ chromadb
 langchain
 langsmith
 bs4
-langchain_deepseek
 python-dotenv
 langchain_core
 langchain
@@ -25,10 +21,10 @@ ollama
 matplotlib
 numpy
 pandas
-scipy
 scikit-learn
 seaborn
 imbalanced-learn
 xgboost
 unstructured
 PyPDF2
+typing_extensions

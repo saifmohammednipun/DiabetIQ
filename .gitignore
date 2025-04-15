@@ -2,3 +2,4 @@
 *my_env
 *.ipynb_checkpoints
 *.env
+*venv
