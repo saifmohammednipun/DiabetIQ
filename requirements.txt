@@ -29,3 +29,7 @@ unstructured
 PyPDF2
 typing_extensions
 ragas
+datasets
+deepeval
+accelerate
+bitsandbytes
