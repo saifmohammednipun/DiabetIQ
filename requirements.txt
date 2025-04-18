@@ -28,4 +28,7 @@ xgboost
 unstructured
 PyPDF2
 typing_extensions
+trulens_eval
 ragas
+deepeval
+pytest
