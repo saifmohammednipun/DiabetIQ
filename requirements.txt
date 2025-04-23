@@ -33,3 +33,4 @@ datasets
 deepeval
 accelerate
 bitsandbytes
+streamlit
