@@ -4,3 +4,4 @@
 *.env
 *venv
 *.venv
+*flutter_app

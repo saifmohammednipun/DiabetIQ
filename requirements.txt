@@ -34,3 +34,4 @@ deepeval
 accelerate
 bitsandbytes
 streamlit
+fastapi[standard]
